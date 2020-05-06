@@ -19,19 +19,19 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "356的个人博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+author = "三百五十六"
+email = "youngjie999@gmail.com"
+author_homepage = "http://duck356.github.io/Blog-With-GitHub-Boilerplate/"
+description = "16 * 55 = 28"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
+        "url": "http://duck356.github.io/Blog-With-GitHub-Boilerplate/",
         "brief": "🏄‍ Go My Own Way."
     },
     {
@@ -61,12 +61,12 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/duckduck356",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/duck356",
         "icon": "gi gi-github"
     },
     {
