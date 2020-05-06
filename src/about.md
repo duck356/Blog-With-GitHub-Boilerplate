@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/05/06 17:26:00
 status: publish
-author: AlanDecode
+author: 三八五十六
 categories: 
   - Maverick
   - Dev
@@ -19,4 +19,4 @@ tags:
 
 Email: hi#imalan.cn (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[Duck356](https://t.me/duck356)
