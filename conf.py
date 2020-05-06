@@ -24,20 +24,20 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "三百五十六"
 email = "youngjie999@gmail.com"
-author_homepage = "http://duck356.github.io/Blog-With-GitHub-Boilerplate/"
+author_homepage = "http://duck356.github.io/356blog/"
 description = "16 * 55 = 28"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "http://duck356.github.io/Blog-With-GitHub-Boilerplate/",
+        "name": "三百五十六",
+        "url": "http://duck356.github.io/356blog/",
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "随便看看",
+        "url": "https://google.com",
+        "brief": "不懂就问"
     }
 ]
 nav = [
