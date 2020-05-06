@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": False,
-    "repo": ""
+    "repo": "duck356/356blog@gh-pages"
 }
 
 # 站点设置
