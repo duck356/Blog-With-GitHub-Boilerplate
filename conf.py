@@ -69,11 +69,11 @@ social_links = [
         "url": "https://github.com/duck356",
         "icon": "gi gi-github"
     },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
+#    {
+#       "name": "Weibo",
+#       "url": "https://weibo.com/5245109677/",
+#       "icon": "gi gi-weibo"
+#   }
 ]
 
 head_addon = r'''
