@@ -84,7 +84,8 @@ valine = {
     "visitor": True,
     "recordIP": True,
     "highlight":True,
-    "avatar":"retro"
+    "avatar":"retro",
+    "recordIP":True
 }
 
 head_addon = r'''
