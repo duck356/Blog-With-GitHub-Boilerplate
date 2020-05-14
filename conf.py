@@ -26,7 +26,7 @@ author = "三百五十六"
 email = "youngjie999@gmail.com"
 author_homepage = "http://duck356.github.io/356blog/"
 description = "16 * 55 = 28"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '三百五十六', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "随便看看",
+        "name": "不懂就问",
         "url": "https://google.com",
         "brief": "不懂就问"
     }
@@ -75,6 +75,15 @@ social_links = [
 #       "icon": "gi gi-weibo"
 #   }
 ]
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "IKRAfuPq0zrz6Wfje8ahHAIP-gzGzoHsz",
+    "appKey": "lFaCWkd4xCs0Ng5UWs1eHNwU",
+    "visitor": True,
+    "recordIP": True
+}
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
