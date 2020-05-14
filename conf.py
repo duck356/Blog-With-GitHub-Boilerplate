@@ -84,7 +84,7 @@ valine = {
     "visitor": True,
     "recordIP": True,
     "highlight":True,
-    "avatar":"mp/identicon/monsterid/wavatar/robohash/retro/hide".
+    "avatar":"retro".
 }
 
 head_addon = r'''
