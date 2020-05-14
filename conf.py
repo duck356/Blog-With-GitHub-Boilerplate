@@ -82,7 +82,9 @@ valine = {
     "appId": "h3aV05RdMCndeLiGf3dectNO-gzGzoHsz",
     "appKey": "7UvgAfRhQitsCdoGCMy4lGxj",
     "visitor": True,
-    "recordIP": True
+    "recordIP": True,
+    "highlight":True,
+    "avatar":"'' // (''/mp/identicon/monsterid/wavatar/robohash/retro/hide)".
 }
 
 head_addon = r'''
