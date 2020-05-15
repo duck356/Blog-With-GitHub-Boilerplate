@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "356的个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2020-5-15T02:51+08:00"
+site_build_date = "2019-12-18T16:51+08:00"
 author = "三百五十六"
 email = "youngjie999@gmail.com"
 author_homepage = "http://duck356.github.io/356blog/"
