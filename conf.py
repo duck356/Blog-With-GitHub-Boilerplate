@@ -26,7 +26,7 @@ author = "三百五十六"
 email = "youngjie999@gmail.com"
 author_homepage = "http://duck356.github.io/356blog/"
 description = "16 * 55 = 28"
-key_words = ['Maverick', '三百五十六', 'Galileo', 'blog']
+key_words = ['Duck356', '三百五十六', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
