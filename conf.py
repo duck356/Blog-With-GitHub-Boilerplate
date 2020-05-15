@@ -84,7 +84,7 @@ valine = {
     "visitor": True,
     "recordIP": True,
     "highlight":True,
-    "avatar":"retro",
+    "avatar":"mp/identicon/monsterid/wavatar/robohash/retro",
     "recordIP":True
 }
 
