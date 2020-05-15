@@ -13,8 +13,6 @@ tags:
 
 这里是我的个人博客，通过 GitHub 管理与构建。
 
-通过 VSCode 练习 MarkDown 语法。
-
 谢谢大家。
 
 
