@@ -25,7 +25,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "356的个人博客"
+site_name = "鸭子说"
 site_logo = "${static_prefix}logo.jpeg"
 site_build_date = "2020-01-01T02:54+08:00"
 author = "三百五十六"
@@ -139,5 +139,3 @@ head_addon = r'''
 footer_addon = 'Posted by:三百五十六'
 
 body_addon = ''
-
-background_img = "../src/Mononoke_Hime.jpg"
