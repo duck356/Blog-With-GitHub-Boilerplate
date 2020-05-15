@@ -32,7 +32,7 @@ author = "三百五十六"
 email = "youngjie999@gmail.com"
 author_homepage = "http://duck356.github.io/356blog/"
 description = "16 * 55 = 28"
-key_words = ['Duck356', '三百五十六', 'Galileo', 'blog']
+key_words = ['Duck356', '三百五十六', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -136,6 +136,6 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
-footer_addon = ''
+footer_addon = 'Posted by:三百五十六'
 
 body_addon = ''
