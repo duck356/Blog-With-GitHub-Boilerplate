@@ -139,3 +139,5 @@ head_addon = r'''
 footer_addon = 'Posted by:三百五十六'
 
 body_addon = ''
+
+background_img = "../src/Mononoke_Hime.jpg"
