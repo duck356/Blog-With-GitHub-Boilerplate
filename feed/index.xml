@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>356的个人博客</title><link>/356blog/</link><description>16 * 55 = 28</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/duck356/356blog@gh-pages/logo.png</url><title>356的个人博客</title><link>/356blog/</link></image><language>zh-CN</language><lastBuildDate>Fri, 15 May 2020 01:06:30 +0806</lastBuildDate><pubDate>Fri, 15 May 2020 01:06:30 +0806</pubDate><item><title>Hello World!</title><link>/356blog/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>356的个人博客</title><link>/356blog/</link><description>16 * 55 = 28</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/duck356/356blog@gh-pages/logo.png</url><title>356的个人博客</title><link>/356blog/</link></image><language>zh-CN</language><lastBuildDate>Fri, 15 May 2020 02:13:28 +0806</lastBuildDate><pubDate>Fri, 15 May 2020 02:13:28 +0806</pubDate><item><title>Hello World!</title><link>/356blog/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -160,5 +160,12 @@ echo &amp;quot;云盾已清理，任意键结束&amp;quot;
 char=`get_char`
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h4&gt;删除阿里云盾&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;开始删除云盾，任意键继续&lt;/li&gt;
+&lt;li&gt;删除成功，任意键继续&lt;/li&gt;
+&lt;li&gt;开始清理残留文件，任意键继续&lt;/li&gt;
+&lt;li&gt;清理完成，任意键继续&lt;/li&gt;
+&lt;li&gt;开始屏蔽云盾 ip，任意键继续&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;=======&lt;/p&gt;
 </description><author>youngjie999@gmail.com (&lt;三百五十六&gt;)</author><guid isPermaLink="true">/356blog/archives/removeyundun/</guid><pubDate>Fri, 15 May 2020 09:00:00 +0806</pubDate></item></channel></rss>
