@@ -13,7 +13,9 @@ tags:
 
 用来写东西的地方。
 
-使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布。
+使用 GitHub 管理
+
+并通过 GitHub Actions 自动构建与发布。
 
 谢谢大家。
 
