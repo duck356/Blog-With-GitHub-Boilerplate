@@ -112,7 +112,4 @@ cell 3 | cell 4
 
 [356twitter](https://twitter.com/duckduck356)
 
-
-
-
 [1]: ./images/1463017562.jpg
