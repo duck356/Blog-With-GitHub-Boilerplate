@@ -109,5 +109,5 @@ cell 3 | cell 4
 
 ## Link Card
 
-
-[356twitter](https://twitter.com/duckduck356)
+推特：
+[356](https://twitter.com/duckduck356)
