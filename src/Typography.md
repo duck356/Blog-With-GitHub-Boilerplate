@@ -111,5 +111,5 @@ cell 3 | cell 4
 推特：
 [356](https://twitter.com/duckduck356)
 
-Instagram:
+Instagram：
 [yy356](http://instagram.com/yy356)
