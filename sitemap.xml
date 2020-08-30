@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/356blog/archives/离婚记/</loc>
+    <lastmod>2020-08-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/356blog/archives/诗/</loc>
     <lastmod>2020-05-18</lastmod>
     <changefreq>always</changefreq>
