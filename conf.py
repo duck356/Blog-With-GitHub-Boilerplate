@@ -14,12 +14,6 @@ archives_page_size = 20
 #    "path": "../Galileo"
 #}
 
-#template = {
-#    "name": "Kepler",
-#    "type": "git",
-#    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
-#    "branch": "latest"
-#}
 
 template = {
     "name": "Galileo",
