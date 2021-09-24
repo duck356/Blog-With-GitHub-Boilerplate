@@ -13,12 +13,22 @@ archives_page_size = 20
 #    "type": "local",
 #    "path": "../Galileo"
 #}
+
+#template = {
+#    "name": "Kepler",
+#    "type": "git",
+#    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+#    "branch": "latest"
+#}
+
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "git",
-    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+    "url": "https://github.com/AlanDecode/Maverick-Theme-Galileo.git",
     "branch": "latest"
 }
+
+
 enable_jsdelivr = {
     "enabled": True,
     "repo": "duck356/356blog@gh-pages"
